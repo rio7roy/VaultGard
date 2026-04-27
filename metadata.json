@@ -1,0 +1,6 @@
+{
+  "name": "SpendPrompt Parser",
+  "description": "Extract structured financial data from raw UPI and bank notification text using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
